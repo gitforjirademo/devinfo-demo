@@ -10,4 +10,4 @@
 - Add a commit to test webhooks
 - Add a commit to test workflow triggers
 
-WT-1 adding a commit
+WT-1 creating a pull request
