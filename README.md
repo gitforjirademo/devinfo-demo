@@ -11,3 +11,4 @@
 - Add a commit to test workflow triggers
 
 WT-2 creating a pull requested
+Testing Smart Commits in dev info w/ bad email 
