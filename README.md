@@ -10,11 +10,3 @@
 - Add a commit to test webhooks
 - Add a commit to test workflow triggers
 
-WT-2 creating a pull requested
-Testing Smart Commits in dev info w/ bad email 
-Testing Developer Information on TG-1
-Testing Developer Information on TES-1
-
-Testing Developer Information on TES-1 the first one!!!!
-Testing Developer Information on TES-1
-POLO-2 testing AUGUST release
