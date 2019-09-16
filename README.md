@@ -8,5 +8,5 @@
 - Add a commit to move through workflow
 - Add a commit to test webhooks
 - Add a commit to test webhooks
-- Add a commit to test workflow triggers
+- Add a commit to test workflow triggers in classic project
 
